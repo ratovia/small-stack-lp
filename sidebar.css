@@ -1,0 +1,23 @@
+.side-content{
+  width: 20%;
+  height: 60%;
+
+}
+
+
+.side-content{
+  padding: 0.5em 0 0.5em 1.5em;
+  display: flex;
+  flex-direction: column;
+}
+
+ul, li {
+  line-height: 1.5;
+  padding: 0.5em 0;
+}
+
+.sidebar-list{
+  margin-left: 20px;
+  width: 80%;
+  font-size: 15px;
+}

@@ -1,0 +1,59 @@
+*{
+  font-family: "Osaka";
+}
+html,body{
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+section{
+  padding: 10px 10px;
+  margin-bottom: 100px;
+  background-color: white;
+} 
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  background-color: #F5F5F5;
+}
+
+.header {
+  height: 35px;
+  background-color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #EEEEEE;
+}
+
+
+.about-section {
+  display: flex;
+  justify-content: center;
+}
+.header-box-logo {
+  /* width: 5%;
+  height: 80%; */
+
+}
+/* .header-box-text {
+  width: 10%;
+  height: 30%;
+  margin-left: 1%;
+} */
+
+.main-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.main-content {
+  overflow-y: auto;
+  clear: both;
+}
